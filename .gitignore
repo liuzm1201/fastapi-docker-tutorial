@@ -1,0 +1,10 @@
+__pycache__/
+*.py[cod]
+*$py.class
+.mypy_cache/
+node_modules/
+target/
+dist/
+.DS_Store
+*.log
+*.log.*
