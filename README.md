@@ -6,10 +6,10 @@
 
 ```shell
 # 创建虚拟环境
-conda create -n tutorial python=3.8 -y
+conda create -n fastapi-docker-tutorial python=3.8 -y
 
 # 进入项目根目录/service
-cd ./tutorial/service
+cd fastapi-docker-tutorial/service
 
 # 安装环境依赖
 pip install -r requirements.txt
